@@ -16,4 +16,4 @@ Smart Money Hub is a beginner-friendly, SEO-optimized static website built entir
 ## Live Demo
 
 After publishing on GitHub Pages, your site will be live at:
-https://BigFella4422.github.io/smart-money-hub/
+http://financefreedom.ct.ws/?i=1
